@@ -37,6 +37,10 @@
 
 ---
 
+## 📍 시스템 아키텍쳐
+<img width="804" alt="mapjiri" src="https://github.com/user-attachments/assets/0e6f3ad2-d898-4007-be41-3333780473a2" />
+
+---
 
 ## 👨‍👩‍👧‍👦 팀원 소개 및 역할
 
@@ -64,6 +68,5 @@
 | 협업 도구 | IntelliJ, Notion, GitHub, Discord |
 ---
 
-## 📍 시스템 아키텍쳐
 
 
